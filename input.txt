@@ -1,0 +1,106 @@
+stb1|The Matrix|Warner Bros|2014-04-01|4.00|1:30
+stb1|Unbreakable|Buena Vista|2014-04-03|6.00|2:05
+stb2|The Hobbit|Warner Bros|2014-04-02|8.00|2:45
+stb3|The Matrix|warner Bros|2014-04-02|4.00|1:05
+stb4|Chappie|Miramax|2015-08-02|10.00|5:18
+stb4|Chappel Show|Miramax|2015-08-02|5.50|12:01
+stb7|Get Out|Warner bros|2017-04-18|4.00|18:38
+stb4|Smurfs: The Lost Village|New Line|2017-04-07|1.00|08:30
+stb7|Harry Potter and the Deathly Hallows: Part 2|Miramax|2017-04-13|5.00|01:40
+stb5|Get Out|DreamWorks|2017-04-16|1.00|14:42
+stb4|Memento|New Line|2017-04-17|1.00|21:50
+stb4|Aftermath|Lionsgate|2017-04-16|5.00|12:07
+stb3|Aliens|Warner bros|2017-04-17|4.00|14:43
+stb7|Se7en|DreamWorks|2017-04-10|5.00|04:56
+stb3|The Magnificent Seven|Warner bros|2017-04-14|1.00|16:33
+stb3|The Maze Runner|Lionsgate|2017-04-15|10.00|14:55
+stb1|Lion|DreamWorks|2017-04-06|6.00|07:05
+stb7|The Prestige|New Line|2017-04-06|3.00|05:27
+stb6|Nocturnal Animals|Warner bros|2017-04-05|5.00|14:19
+stb3|Memento|20th Century|2017-04-12|3.00|00:34
+stb10|Logan|Lionsgate|2017-04-07|3.00|02:31
+stb5|Ice Age|DreamWorks|2017-04-05|10.00|04:58
+stb5|Your Name.|Paramount|2017-04-03|7.00|07:05
+stb1|Terminator 2: Judgment Day|Lionsgate|2017-04-12|5.00|13:07
+stb7|Titanic|20th Century|2017-04-02|9.00|21:56
+stb1|Harry Potter and the Philosopher's Stone|New Line|2017-04-16|4.00|23:58
+stb3|Captain America: Civil War|Paramount|2017-04-14|7.00|16:23
+stb4|Se7en|20th Century|2017-04-01|2.00|12:09
+stb10|Ted 2|Paramount|2017-04-05|3.00|14:59
+stb3|The Maze Runner|20th Century|2017-04-06|2.00|12:57
+stb6|John Wick: Chapter 2|Lionsgate|2017-04-12|10.00|08:53
+stb10|Avatar|Sony Pictures|2017-04-17|7.00|16:43
+stb3|Fantastic Beasts and Where to Find Them|Buena Vista|2017-04-08|5.00|12:07
+stb4|John Wick: Chapter 2|20th Century|2017-04-12|2.00|20:36
+stb9|Harry Potter and the Goblet of Fire|20th Century|2017-04-19|7.00|16:31
+stb7|Pirates of the Caribbean: Dead Men Tell No Tales|Miramax|2017-04-21|7.00|09:09
+stb10|Insurgent|Paramount|2017-04-19|2.00|06:37
+stb3|Aftermath|Lionsgate|2017-04-07|3.00|07:33
+stb10|Harry Potter and the Philosopher's Stone|Miramax|2017-04-20|9.00|04:41
+stb1|The Mother of Tears|Sony Pictures|2017-04-05|4.00|13:48
+stb5|Logan|Sony Pictures|2017-04-16|7.00|13:31
+stb6|Captain America: Civil War|Buena Vista|2017-04-11|10.00|07:28
+stb5|Get Out|DreamWorks|2017-04-06|7.00|19:18
+stb4|The Mother of Tears|Sony Pictures|2017-04-15|3.00|18:08
+stb4|Spectre|Lionsgate|2017-04-10|6.00|19:46
+stb7|Ice Age|Warner bros|2017-04-15|7.00|03:27
+stb7|Terminator 2: Judgment Day|Lionsgate|2017-04-07|3.00|18:52
+stb3|Shutter Island|Sony Pictures|2017-04-03|7.00|05:36
+stb3|Nocturnal Animals|Buena Vista|2017-04-15|7.00|22:18
+stb4|Dogtooth|MGM|2017-04-19|10.00|13:45
+stb8|Now You See Me|Sony Pictures|2017-04-16|5.00|19:59
+stb6|Shutter Island|MGM|2017-04-20|3.00|23:27
+stb3|The Maze Runner|Warner bros|2017-04-03|3.00|04:10
+stb2|Furious 7|Warner bros|2017-04-20|3.00|08:27
+stb4|Silence|Sony Pictures|2017-04-07|3.00|19:10
+stb2|Aliens|Lionsgate|2017-04-18|4.00|14:13
+stb3|Big Hero 6|New Line|2017-04-20|3.00|04:58
+stb7|Insurgent|20th Century|2017-04-19|2.00|05:29
+stb7|Logan|Warner bros|2017-04-13|6.00|17:21
+stb3|Fantastic Beasts and Where to Find Them|20th Century|2017-04-07|5.00|12:54
+stb4|The Hobbit: An Unexpected Journey|Miramax|2017-04-08|8.00|00:13
+stb3|Smurfs: The Lost Village|New Line|2017-04-07|3.00|06:16
+stb9|The Maze Runner|New Line|2017-04-18|9.00|03:12
+stb1|The Hobbit: An Unexpected Journey|20th Century|2017-04-16|4.00|23:02
+stb3|Ice Age|Lionsgate|2017-04-07|10.00|20:12
+stb3|Titanic|Miramax|2017-04-20|10.00|05:48
+stb6|Aftermath|Paramount|2017-04-18|4.00|21:49
+stb1|The Revenant|Sony Pictures|2017-04-02|8.00|22:58
+stb4|Ice Age|20th Century|2017-04-05|5.00|02:10
+stb8|Pirates of the Caribbean: Dead Men Tell No Tales|Paramount|2017-04-08|1.00|13:06
+stb3|The Hunger Games: Catching Fire|20th Century|2017-04-03|5.00|13:20
+stb2|The Hateful Eight|New Line|2017-04-20|9.00|03:21
+stb3|Logan|Warner bros|2017-04-14|4.00|13:59
+stb8|Dogtooth|MGM|2017-04-19|7.00|21:23
+stb9|Django Unchained|Sony Pictures|2017-04-06|5.00|06:31
+stb2|The Hateful Eight|Paramount|2017-04-04|3.00|15:55
+stb8|Tomorrow Everything Starts|Miramax|2017-04-09|10.00|04:32
+stb7|Memento|DreamWorks|2017-04-14|2.00|03:53
+stb4|Get Out|DreamWorks|2017-04-15|9.00|12:46
+stb6|The Hunger Games: Catching Fire|Warner bros|2017-04-09|1.00|09:23
+stb8|Fifty Shades Darker|Sony Pictures|2017-04-12|4.00|13:53
+stb10|The Prestige|Miramax|2017-04-14|10.00|02:42
+stb4|Ted 2|Buena Vista|2017-04-14|5.00|01:26
+stb6|Se7en|MGM|2017-04-12|8.00|07:42
+stb9|Fifty Shades Darker|Miramax|2017-04-19|10.00|00:28
+stb1|The Magnificent Seven|Buena Vista|2017-04-05|4.00|19:53
+stb9|The Hunger Games: Catching Fire|Lionsgate|2017-04-11|1.00|20:19
+stb8|John Wick: Chapter 2|Paramount|2017-04-21|9.00|05:17
+stb6|Harry Potter and the Goblet of Fire|20th Century|2017-04-10|9.00|11:12
+stb2|Harry Potter and the Deathly Hallows: Part 2|Miramax|2017-04-06|1.00|16:15
+stb9|Harry Potter and the Deathly Hallows: Part 2|Warner bros|2017-04-16|4.00|04:37
+stb1|Insurgent|20th Century|2017-04-19|5.00|08:57
+stb2|Nocturnal Animals|Miramax|2017-04-15|7.00|23:53
+stb8|Harry Potter and the Deathly Hallows: Part 2|Lionsgate|2017-04-09|8.00|19:16
+stb5|Titanic|20th Century|2017-04-02|4.00|05:31
+stb4|Dogtooth|New Line|2017-04-19|1.00|09:23
+stb10|The Invisible Guest|20th Century|2017-04-17|2.00|09:23
+stb9|Ted 2|MGM|2017-04-21|10.00|02:10
+stb8|Chappie|Lionsgate|2017-04-06|1.00|12:40
+stb10|The Revenant|Paramount|2017-04-02|3.00|22:29
+stb5|Django Unchained|Warner bros|2017-04-16|10.00|02:40
+stb5|Harry Potter and the Goblet of Fire|Lionsgate|2017-04-10|5.00|23:02
+stb4|Terminator 2: Judgment Day|New Line|2017-04-12|1.00|22:06
+stb1|Harry Potter and the Goblet of Fire|New Line|2017-04-11|5.00|13:07
+stb7|Harry Potter and the Philosopher's Stone|DreamWorks|2017-04-16|10.00|13:02
+stb6|Aliens|Sony Pictures|2017-04-18|6.00|12:27
