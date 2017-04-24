@@ -12,7 +12,6 @@ parser.add_argument('-f', dest='filter',
 parser.add_argument('-o', dest='order',
                     help='ORDER from comma separated list of columns (STB,TITLE,PROVIDER,DATE,REV,TIME)')
 args = parser.parse_args()
-count = 0
 
 
 """
@@ -23,11 +22,11 @@ STB|TITLE|PROVIDER|DATE|REVENUE|TIME\n
 
 """
 if args.filename:
+    count = 0
     with open(args.filename, 'r') as file:
         for line in file:
-            box_id, title, provider, date, revenue, time = line.rstrip('\r\n').split('|')
-            count += 1
             try:
+                box_id, title, provider, date, revenue, time = line.rstrip('\r\n').split('|')
                 time = datetime.strptime(time, '%H:%M')
                 date = datetime.strptime(date, '%Y-%m-%d')
                 data = {
@@ -39,8 +38,10 @@ if args.filename:
                     'time': time.strftime('%H:%M')
                 }
                 add_data(data)
+                count += 1
             except ValueError as e:
                 print("Mal-formatted line. Skipping.")
+    print("Imported {} records.".format(count))
 # Else, retrieving data. Data retrieval from SELECT, FILTER, and ORDER arguments
 else:
     # Error checking retrieval arguments
